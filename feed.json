@@ -1,0 +1,40 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "ShelburneCRE",
+    "description": "",
+    "home_page_url": "https://shelburnewebaust.github.io/Shelburne-Web-Public",
+    "feed_url": "https://shelburnewebaust.github.io/Shelburne-Web-Public/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Charles Dalrymple-Hay"
+    },
+    "items": [
+        {
+            "id": "https://shelburnewebaust.github.io/Shelburne-Web-Public/market-insights.html",
+            "url": "https://shelburnewebaust.github.io/Shelburne-Web-Public/market-insights.html",
+            "title": "Market Insights",
+            "author": {
+                "name": "Charles Dalrymple-Hay"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-09-16T11:48:14+10:00",
+            "date_modified": "2026-09-16T11:48:14+10:00"
+        },
+        {
+            "id": "https://shelburnewebaust.github.io/Shelburne-Web-Public/shelburnecre-warehouse-relocations.html",
+            "url": "https://shelburnewebaust.github.io/Shelburne-Web-Public/shelburnecre-warehouse-relocations.html",
+            "title": " Warehouse Relocations - A Strategic Plan for Success ",
+            "summary": "The process of relocating your warehouse require careful planning and execution, whether you’re expanding, consolidating, seeking a better location or delivering operational efficiencies. The process follows a fairly logical playbook, however it involves more than just moving inventory; it demands a property strategy with a&hellip;",
+            "content_html": "<p>The process of relocating your warehouse require careful planning and execution, whether you’re expanding, consolidating, seeking a better location or delivering operational efficiencies. </p><p>The process follows a fairly logical playbook, however it involves more than just moving inventory; it demands a property strategy with a clear understanding of relocation goals.</p><p>As a first step, putting in place a project team with representatives from operations, IT, and logistics supported by professional services will ensure the success of the relocation. Having a dedicated relocation manager to lead the team and coordinate activities, manage timelines, and serve as the primary decision-maker is equally essential.</p><p>Appointing Shelburne CRE to your project team with the responsibility of developing a property strategy using our extensive property skills, market knowledge and insights  will reduce risk exposure and help deliver optimal lease terms and conditions and financial performance.</p><p>Allowing adequate time to prepare a property strategy, undertake financial analysis, benchmarking and to facilitate the property procurement process will ensure completion dates are met and avoid unexpected costs. The suggested times below are indicitative and vary depending on whether it is a new build or existing building.</p><ol>\n<li>Define Your Relocation Strategy (18–24 Months Out)</li>\n<li>Property Strategy, Site or Building Selection (12–18 Months Out)</li>\n<li>Plan the New Facility Layout (10 - 12 Months Out)</li>\n<li>Property Commitment &amp; Documentation (10 - 12 Months Out)</li>\n<li>Move Execution (3–6 Months Out)</li>\n<li>Decommissioning, makegood &amp; Closeout</li>\n</ol>\n",
+            "image": "https://shelburnewebaust.github.io/Shelburne-Web-Public/media/posts/12/Relocations.png",
+            "author": {
+                "name": "Charles Dalrymple-Hay"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-07-01T12:34:08+10:00",
+            "date_modified": "2026-07-07T20:05:22+10:00"
+        }
+    ]
+}

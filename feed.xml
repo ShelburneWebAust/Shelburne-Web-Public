@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>ShelburneCRE</title>
+    <link href="https://shelburnewebaust.github.io/Shelburne-Web-Public/feed.xml" rel="self" />
+    <link href="https://shelburnewebaust.github.io/Shelburne-Web-Public" />
+    <updated>2026-09-16T11:48:14+10:00</updated>
+    <author>
+        <name>Charles Dalrymple-Hay</name>
+    </author>
+    <id>https://shelburnewebaust.github.io/Shelburne-Web-Public</id>
+
+    <entry>
+        <title>Market Insights</title>
+        <author>
+            <name>Charles Dalrymple-Hay</name>
+        </author>
+        <link href="https://shelburnewebaust.github.io/Shelburne-Web-Public/market-insights.html"/>
+        <id>https://shelburnewebaust.github.io/Shelburne-Web-Public/market-insights.html</id>
+
+        <updated>2026-09-16T11:48:14+10:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title> Warehouse Relocations - A Strategic Plan for Success </title>
+        <author>
+            <name>Charles Dalrymple-Hay</name>
+        </author>
+        <link href="https://shelburnewebaust.github.io/Shelburne-Web-Public/shelburnecre-warehouse-relocations.html"/>
+        <id>https://shelburnewebaust.github.io/Shelburne-Web-Public/shelburnecre-warehouse-relocations.html</id>
+        <media:content url="https://shelburnewebaust.github.io/Shelburne-Web-Public/media/posts/12/Relocations.png" medium="image" />
+
+        <updated>2026-07-01T12:34:08+10:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://shelburnewebaust.github.io/Shelburne-Web-Public/media/posts/12/Relocations.png" alt="" />
+                    The process of relocating your warehouse require careful planning and execution, whether you’re expanding, consolidating, seeking a better location or delivering operational efficiencies. The process follows a fairly logical playbook, however it involves more than just moving inventory; it demands a property strategy with a&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://shelburnewebaust.github.io/Shelburne-Web-Public/media/posts/12/Relocations.png" class="type:primaryImage" alt="" /></p>
+                <p>The process of relocating your warehouse require careful planning and execution, whether you’re expanding, consolidating, seeking a better location or delivering operational efficiencies. </p><p>The process follows a fairly logical playbook, however it involves more than just moving inventory; it demands a property strategy with a clear understanding of relocation goals.</p><p>As a first step, putting in place a project team with representatives from operations, IT, and logistics supported by professional services will ensure the success of the relocation. Having a dedicated relocation manager to lead the team and coordinate activities, manage timelines, and serve as the primary decision-maker is equally essential.</p><p>Appointing Shelburne CRE to your project team with the responsibility of developing a property strategy using our extensive property skills, market knowledge and insights  will reduce risk exposure and help deliver optimal lease terms and conditions and financial performance.</p><p>Allowing adequate time to prepare a property strategy, undertake financial analysis, benchmarking and to facilitate the property procurement process will ensure completion dates are met and avoid unexpected costs. The suggested times below are indicitative and vary depending on whether it is a new build or existing building.</p><ol>
+<li>Define Your Relocation Strategy (18–24 Months Out)</li>
+<li>Property Strategy, Site or Building Selection (12–18 Months Out)</li>
+<li>Plan the New Facility Layout (10 - 12 Months Out)</li>
+<li>Property Commitment &amp; Documentation (10 - 12 Months Out)</li>
+<li>Move Execution (3–6 Months Out)</li>
+<li>Decommissioning, makegood &amp; Closeout</li>
+</ol>
+
+            ]]>
+        </content>
+    </entry>
+</feed>
